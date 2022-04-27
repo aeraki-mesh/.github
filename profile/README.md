@@ -1,6 +1,10 @@
 ## Manage any layer-7 protocols in a service mesh
 
+### What does Aeraki stand for ? ##
 Aeraki [Air-rah-ki] is the Greek word for 'breeze'. We hope this breeze can help Kubernetes and Istio sail further in the cloud native adventure. 
 
-While service mesh becomes an important infrastructure for microservices, many(if not all) service mesh implementations mainly focus on HTTP protocols and treat other protocols as plain TCP traffic. Aeraki Mesh is created to provide a non-intrusive, highly extendable way to manage any layer 7 traffic in a service mesh.
+### Why Aeraki Mesh ? ###
+While service mesh becomes an important infrastructure for microservices, many(if not all) service mesh implementations mainly focus on HTTP protocols and treat other protocols as plain TCP traffic. Aeraki Mesh is created to provide a non-intrusive, highly extendable way to manage any layer 7 traffic in a service mesh, including Dubbo, Thrift, Redis, etc. and private protocols as well.
+
+https://aeraki.net
 
