@@ -8,3 +8,10 @@ While service mesh becomes an important infrastructure for microservices, many(i
 
 https://aeraki.net
 
+## Landscapes
+
+<p align="center">
+<img src="https://landscape.cncf.io/images/left-logo.svg" width="150"/>&nbsp;&nbsp;<img src="https://landscape.cncf.io/images/right-logo.svg" width="200"/>
+<br/><br/>
+Aeraki Mesh enriches the <a href="https://landscape.cncf.io/?selected=aeraki-mesh">CNCF CLOUD NATIVE Landscape.</a>
+</p>
