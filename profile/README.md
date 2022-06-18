@@ -13,5 +13,5 @@ https://aeraki.net
 <p align="center">
 <img src="https://landscape.cncf.io/images/left-logo.svg" width="150"/>&nbsp;&nbsp;<img src="https://landscape.cncf.io/images/right-logo.svg" width="200"/>
 <br/><br/>
-Aeraki Mesh enriches the <a href="https://landscape.cncf.io/?selected=aeraki-mesh">CNCF CLOUD NATIVE Landscape.</a>
+Aeraki Mesh is a <a href="https://landscape.cncf.io/?selected=aeraki-mesh">CNCF sandbox project.</a>
 </p>
